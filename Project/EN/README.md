@@ -3,3 +3,5 @@
 Design of a Structured Computer Network
 
 Launched but to develop README.md
+
+feel free to explore for now...
